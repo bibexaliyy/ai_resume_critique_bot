@@ -1,5 +1,5 @@
 import streamlit as st
-import pymupdf as fitz
+import pymupdf
 import openai
 import os
 
