@@ -1,4 +1,1 @@
-streamlit
-python-dotenv
-PyMuPDF
-openai
+-r requirements.txt
